@@ -80,6 +80,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+config.py
 
 # pyenv
 .python-version
@@ -129,5 +130,6 @@ dmypy.json
 .pyre/
 
 #config.py
+config.py
 config.py
 .DS_Store
