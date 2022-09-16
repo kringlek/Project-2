@@ -1,5 +1,9 @@
 # Project-2 - Group 2
 ## GROUP MEMBERS: Kellimarie Cooper, Ryan Kim, Natalia Moreno, Myles Browne
+## Observations:
+  After analyzing the data, the maximum number of deaths was 760 from Fetanyl in 2018 from durg overdose.  From 2012-2016, heroin caused the highest number of overdose
+  deaths at 174, 257, 325, 416, and 494 from 2012-2016 respectively.  From 2017-2018, fetanyl was the leading cause of death at 676 and 760.  Overall, there is no      major association between over-all per capital income in the United States.  A better comparison of income and drug overdose deaths would best be done with neighborhood or county income and employment rates.
+ 
  
 ![income and overdose](https://customsitesmedia.usc.edu/wp-content/uploads/sites/59/2019/02/16042905/Opioids-in-America-web-824x549.jpg)
 
