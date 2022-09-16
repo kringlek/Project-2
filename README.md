@@ -10,9 +10,9 @@
  
 ## Context:
 According to the Center for Disease Control and Prevention, in 2020 Drug overdoses from substances such as opioids, cocaine, psychostimulants, and others, were the leading cause of injury-related death in the United States. While the ongoing drug overdose crisis has primarily been fueled by opioid use, it is important to note that overdoses related to other drug categories are also on the rise.
-<br>
+
 The demand-side perspective argues that the drug overdose epidemic is a consequence of changes in the economy that leaves behind working-class people who lack a college education. In contrast, the supply-side perspective maintains that the epidemic is primarily due to changes in the licit and illicit drug environment. A third distinct perspective argues that income inequality is likely a key driver of the epidemic considering that Socioeconomic status and the vulnerability it creates contributes immensely to the overdose health crisis.
-<br>
+
 While overdose deaths are preventable, there are still barriers remaining due to the lack of understanding of these different perspectives. The goal of the present project is to contribute to the studies of these perspectives by providing a consolidated database with useful information from trustworthy sources that can help uncover patterns and relationships between income per capita and overdoses.
  
 ## Proposal:
