@@ -5,8 +5,8 @@
 
 
 ## Data sets:
-* ![Drug Overdose Deaths CSV File](https://www.kaggle.com/datasets/ruchi798/drug-overdose-deaths)
-* ![U.S.A. Income Data Csv file](https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&ac)
+* [Drug Overdose Deaths CSV File](https://www.kaggle.com/datasets/ruchi798/drug-overdose-deaths)
+* [U.S.A. Income Data Csv file](https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&ac)
  
 ## Context:
 According to the Center for Disease Control and Prevention, in 2020 Drug overdoses from substances such as opioids, cocaine, psychostimulants, and others, were the leading cause of injury-related death in the United States. While the ongoing drug overdose crisis has primarily been fueled by opioid use, it is important to note that overdoses related to other drug categories are also on the rise.
