@@ -15,9 +15,11 @@ While overdose deaths are preventable, there are still barriers remaining due to
 The objective of this project is to analyze deaths from varying drug overdoses from 2012 through 2018 in relation to per capita personal income by integrating the data found utilizing the ETL approach.
  
   ### EXTRACT:
-  - (jupyter notebook file) utilizing python with its different dependencies and pandas, we were able to extract the information needed from the original csv.
+  - (jupyter notebook file) utilizing python with its different dependencies and pandas, we were able to extract the information needed from the original csv. we encounter different cleaning "issues" such ass wrong datatypes from thecsv files, null data and different date format used in each data source.
+
   ### TRANSFORM
-  -(jupyter notebook file)
+  - (jupyter notebook file) data was transformed into two more readable table sets ready to be upload into a data base.
+
   ### LOAD
-  -(jupyter notebook file)
+  - (jupyter notebook file) using postgress and sqlalchemy we uploaded our cleaned tables into a data set for further studies.
 
